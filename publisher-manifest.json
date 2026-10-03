@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4b2fc5be3779eb39c341906a",
+  "owner": "cyhttgr",
+  "repo": "page-471a9446afe31e1f6d863e3d",
+  "title": "CloudsCross",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "471a9446afe31e1f6d863e3d",
+      "a": "CloudsCross",
+      "b": "",
+      "entity": "CloudsCross",
+      "brand": "CloudsCross",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b3f2b87012cf32d6e308783bb016b76baf33db8f204b7d34d4cf72ceccec44db",
+      "content": {
+        "keyword1": "CloudsCross",
+        "keyword2": "",
+        "primary_entity": "CloudsCross",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "CloudsCross 提供可靠的机场订阅与 VPN 网络加速服务，涵盖基础版至团队版套餐、全球优质节点和全平台官方客户端下载指引，适用于流媒体、游戏与办公加速。欢迎访问 CloudsCross 官网获取最新信息。",
+          "AI_DESCRIPTION": "CloudsCross 提供可靠的机场订阅与 VPN 网络加速服务，涵盖基础版至团队版套餐、全球优质节点和全平台官方客户端下载指引，适用于流媒体、游戏与办公加速。欢迎访问 CloudsCross 官网获取最新信息。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65;color:#0f172a;background:#e0f2fe;overflow-x:hidden;word-wrap:break-word} .wrap{max-width:680px;margin:0 auto;padding:12px 16px}header{background:#0b1d36;color:#f0f9ff;padding:12px 0}header .wrap{display:flex;flex-direction:column;gap:10px}.brand{font-size:1.2rem;font-weight:700;color:#22d3ee}nav{display:flex;flex-wrap:wrap;gap:8px 14px}nav a{color:#67e8f9;text-decoration:none;font-size:0.92rem}main{padding:4px 0 28px}h1{font-size:1.62rem;line-height:1.35;color:#0b1d36;margin:18px 0 12px}h2{font-size:1.28rem;color:#0b1d36;margin:28px 0 12px;padding-bottom:6px;border-bottom:3px solid #22d3ee}h3{font-size:1.08rem;color:#075985;margin:14px 0 8px}p,ul,ol{margin-bottom:12px}ul,ol{padding-left:1.35em}.lead{font-size:1.04rem;color:#334155}.plan{background:#fff;border:1px solid #bae6fd;border-radius:10px;padding:16px;margin-bottom:14px}.plan.featured{border:2px solid #0891b2;background:#f0f9ff}.badge{display:inline-block;background:#0891b2;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:4px;margin-bottom:6px}.price{font-size:1.32rem;font-weight:700;color:#0c4a6e}.annual{font-size:0.9rem;color:#0369a1;margin:4px 0 8px}.step{background:#fff;border-radius:8px;padding:14px 16px;margin-bottom:10px;border-left:5px solid #22d3ee}.step h3{margin-top:0}details{background:#fff;border:1px solid #bae6fd;border-radius:8px;margin-bottom:10px;padding:2px 14px}summary{font-weight:600;color:#0c4a6e;padding:10px 0}details p{padding-bottom:12px;color:#334155}footer{background:#0b1d36;color:#94a3b8;padding:20px 0;font-size:0.86rem}footer a{color:#67e8f9;text-decoration:none}.cta{display:inline-block;background:#0891b2;color:#fff;padding:10px 18px;border-radius:6px;text-decoration:none;font-weight:600;margin:6px 0 12px}.links{display:flex;flex-wrap:wrap;gap:8px 16px;margin:8px 0}.note{font-size:0.86rem;color:#64748b}.map ul{list-style:none;padding-left:0}.map li{margin-bottom:6px}@media (min-width:640px){.wrap{padding:16px 20px}h1{font-size:1.8rem}}</style><header><div class=\"wrap\"><div class=\"brand\">CloudsCross 官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐价格</a><a href=\"#howto\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#about\">关于官网</a></nav></div></header><main><div class=\"wrap\"><h1>CloudsCross：官方机场订阅、VPN 加速器与客户端下载</h1><p class=\"lead\">CloudsCross 是面向个人与团队的网络加速服务，通过机场订阅模式提供可导入各类客户端的节点资源，帮助用户完成梯子网络加速、流媒体解锁与跨境访问。本页为 CloudsCross 官网信息页，集中说明套餐、使用步骤与官方下载指引。</p><section id=\"intro\"><h2>品牌简介</h2><p>CloudsCross 专注稳定线路与清晰订阅体验。节点覆盖亚洲主要城市以及北美、欧洲常用出口，日常浏览、视频与轻度游戏均可按套餐选择对应带宽与设备数量。服务以订阅链接为核心：用户完成套餐后即可在 Clash、Shadowrocket、Surge 等客户端中更新节点，无需绑定单一封闭软件。</p><p>线路侧结合普通中转与部分 IPLC 专线。旗舰版起提供游戏向优化与原生流媒体解锁策略，团队版则面向多人共享与定制分流。CloudsCross 不夸大无限流量，所有档位均标明月度流量与同时在线设备数，便于按实际用量选择。</p><p>若您正在寻找可长期使用的机场订阅、VPN 加速器以及可核对的官网下载说明，建议先阅读下方套餐与五步操作，再进入客户端下载专区对照设备完成导入。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>观看海外影视、音乐与直播时，可选用支持原生解锁的节点。旗舰版与团队版针对常见平台维护解锁策略，基础版覆盖基础流媒体需求。建议在客户端配置分流，仅对视频域名走代理，降低无关流量消耗。</p><h3>游戏与实时通信</h3><p>对延迟敏感的对战与语音，优先使用带 IPLC 说明的节点，并在客户端开启 UDP 转发（若客户端支持）。同一账号可在套餐设备上限内切换电脑与手机，避免重复购买。</p><h3>办公、学习与隐私</h3><p>远程协作、文献数据库与公共 Wi-Fi 下的加密访问，是 CloudsCross 的常规用途。团队版支持更多设备与企业向路由定制，适合工作室或项目组共用一条订阅。</p></section><section id=\"plans\"><h2>套餐价格</h2><p>以下为当前官网公示档位。按月与按年价格并存，年付可降低折合月费。流量按自然月重置，设备数为同时在线上限。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p class=\"note\">适合轻度浏览、偶尔看剧与单人三端使用。</p></article><article class=\"plan featured\"><p class=\"badge\">推荐档位</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p class=\"note\">个人主力档，兼顾解锁、游戏与工单响应。</p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p class=\"note\">多人共享或需要定制分流时选用。</p></article><p><a class=\"cta\" href=\"#howto\">查看订阅后如何导入客户端</a></p></section><section id=\"howto\"><h2>操作说明</h2><p>按纵向步骤完成即可开始加速，全程可在本页锚点间跳转对照。</p><div class=\"step\"><h3>第一步：确认需求并选择套餐</h3><p>估算每月流量、同时在线设备以及是否需要原生流媒体或 IPLC。轻度用户选基础版，主力使用选旗舰版，多人则选团队版。在官网完成订阅后进入用户中心。</p></div><div class=\"step\"><h3>第二步：复制机场订阅链接</h3><p>在用户中心获取 Clash、通用或指定格式订阅地址。请妥善保存，不要在公共频道传播。若客户端要求 UA 或转换，使用官网提供的对应格式即可。</p></div><div class=\"step\"><h3>第三步：下载并安装客户端</h3><p>根据系统选择兼容订阅的客户端，详见下方「客户端下载」。仅从本页指引的正规渠道获取安装包，避免来路不明的修改版。</p></div><div class=\"step\"><h3>第四步：导入订阅并更新节点</h3><p>打开客户端，添加订阅 URL，执行更新。确认节点列表出现香港、日本、新加坡、美国等入口后，先测延迟再连接。可按规则让国内直连、海外走代理。</p></div><div class=\"step\"><h3>第五步：选择节点并验证连通</h3><p>连接后访问目标站点或进行游戏测速。若某节点异常，切换同区域其他线路。旗舰版用户可通过优先工单反馈持续故障。完成后即可日常使用 CloudsCross 加速。</p></div></section><section id=\"download\"><h2>客户端下载</h2><p>CloudsCross 以机场订阅为主，官方下载指引覆盖主流桌面与移动端。请先安装客户端，再回到操作说明导入订阅。以下为推荐组合，具体安装包请通过各客户端项目的正式发布页获取，并以本站教程完成配置。</p><h3>Windows 与 macOS</h3><p>Windows 可使用 Clash 系图形客户端导入订阅；macOS 可使用 ClashX 系或 Surge。导入后开启系统代理，并检查 DNS 与规则是否与官网示例一致。</p><h3>Android 与 iOS</h3><p>Android 推荐支持 Meta 内核的客户端；iOS 常用 Shadowrocket 或同类型商店应用（需对应地区账号）。手机端注意省电与后台限制，以免断线。</p><h3>Linux 与进阶</h3><p>命令行用户可使用兼容 clash / sing-box 的配置。团队版如需定制路由，将规则文件与订阅一并维护即可。</p><p><a class=\"cta\" href=\"#howto\">返回五步操作说明</a> <a class=\"cta\" href=\"#faq\">先看常见问题</a></p><p class=\"note\">CloudsCross 官网不通过即时通讯群发送可执行安装包。若遇索要远程控制或重复付款的信息，请一律视为非官方。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下问题按实际使用顺序整理，建议订阅前通读。</p><details><summary>CloudsCross 是 VPN 软件还是机场订阅？</summary><p>CloudsCross 是机场订阅服务：提供节点与订阅链接，由您在自选客户端中连接。它承担梯子网络加速职能，但并不强制安装单一封闭 VPN 客户端，因此可按设备更换软件，同时保留同一套餐。</p></details><details><summary>如何从官网完成客户端下载与导入？</summary><p>先在本页「客户端下载」确认系统对应软件，安装后再到用户中心复制订阅。在客户端选择「从 URL 添加订阅」并更新。详细顺序见「操作说明」五步。遇到证书或规则报错时，优先核对订阅格式是否与客户端匹配。</p></details><details><summary>三个套餐怎么选？流量用完会怎样？</summary><p>基础版 100GB / 3 设备，适合轻度；旗舰版 300GB / 5 设备并含解锁与 IPLC；团队版 1000GB / 20 设备面向共享。流量用尽后通常无法继续走加速节点，可升级套餐或等待下月重置。视频与系统更新最耗流量，建议开启分流。</p></details><details><summary>能否解锁流媒体？游戏延迟如何？</summary><p>旗舰版与团队版提供全节点原生流媒体解锁说明，基础版为基本解锁。游戏请优先选择标注 IPLC 或游戏优化的节点，并允许 UDP。延迟受本地宽带与时段影响，同一区域可多试几个入口。</p></details><details><summary>支持哪些设备？会不会重复扣费？</summary><p>在套餐设备上限内，Windows、macOS、Android、iOS 与 Linux 可同时或轮换使用。扣费以您在官网选择的月付或年付为准，年付档位已在套餐中标明。请只通过 CloudsCross 官网开通，避免第三方代充。</p></details><details><summary>节点不稳定或无法连接时如何处理？</summary><p>先更新订阅、更换同区域节点、检查本地时间与系统代理。仍失败时，旗舰版与团队版可走优先工单。请提供客户端名称、错误提示与大致时段，便于线路侧排查。临时故障不代表套餐失效。</p></details><details><summary>如何识别 CloudsCross 官方网站与下载地址？</summary><p>请以本站展示的品牌名、套餐表与锚点页面为准。官方下载是「订阅 + 正规客户端」模式，不会要求关闭杀毒后运行来路不明的加速器安装包。收藏 canonical 域名，勿通过搜索广告里的仿站付款。</p></details></section><section id=\"about\"><h2>关于 CloudsCross 官网</h2><p>本站为 CloudsCross 信息与指引页面，用于说明机场订阅、VPN 加速用途、套餐对照与客户端下载路径。我们强调可核对的流量与设备规则，以及可重复执行的导入步骤，避免只给口号没有操作路径的空壳介绍。</p><p>商务广告与友情展示仅作导航补充，不代表对外部站点内容的担保。购买与售后请始终回到套餐与工单说明。</p><h3>广告合作</h3><p>若您运营网络工具、合规硬件或教程内容，需要在 CloudsCross 官网相关位置展示文字合作信息，请通过关于渠道提交品牌与链位需求。本页不放置弹窗或自动跳转。</p><h3>友情链接</h3><div class=\"links\"><a href=\"#\">客户端配置笔记</a><a href=\"#\">分流规则入门</a><a href=\"#\">隐私与公共网络安全提示</a><a href=\"#\">节点延迟自测方法</a></div><h3>网站地图</h3><div class=\"map\"><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#howto\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#about\">关于官网、广告与友链</a></li></ul></div></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>CloudsCross 官网 · 机场订阅与 VPN 网络加速服务说明页。内容与套餐以本页公示为准。</p><p class=\"links\"><a href=\"#plans\">套餐</a><a href=\"#download\">官方下载指引</a><a href=\"#faq\">常见问题</a><a href=\"#\">服务条款</a><a href=\"#\">隐私说明</a></p><p>建议将本页加入书签，以便核对客户端导入步骤与设备上限。</p></div></footer>",
+          "hash": "808ae0317f172d63e59255cfe5a6f206756aadaa671fcaf980da1be08cd6686f",
+          "seo": {
+            "title": "CloudsCross 官网 - VPN 梯子网络加速、机场订阅与客户端下载",
+            "keywords": "CloudsCross,CloudsCross VPN,CloudsCross机场,VPN加速器,梯子网络加速,机场订阅,客户端下载,官网下载,IPLC加速,流媒体解锁",
+            "description": "CloudsCross 提供可靠的机场订阅与 VPN 网络加速服务，涵盖基础版至团队版套餐、全球优质节点和全平台官方客户端下载指引，适用于流媒体、游戏与办公加速。欢迎访问 CloudsCross 官网获取最新信息。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tvspxcm.cn",
+    "host": "p-42f64faa64.tvspxcm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "tvspxcm.cn",
+      "url": "https://tvspxcm.cn/",
+      "label": "TiZiCloud",
+      "apex": "tvspxcm.cn",
+      "kind": null,
+      "identity": "shvyrwg/page-70398b3d6a6352916ed53f8d"
+    },
+    {
+      "host": "rjzevbd.cn",
+      "url": "https://rjzevbd.cn/",
+      "label": "CloudsCross",
+      "apex": "rjzevbd.cn",
+      "kind": null,
+      "identity": "mk5ajyye/page-89f04ba2708f8a8bb06479fc"
+    },
+    {
+      "host": "rtyngd.cn",
+      "url": "https://rtyngd.cn/",
+      "label": "CloudsCross",
+      "apex": "rtyngd.cn",
+      "kind": null,
+      "identity": "ju79qjwha/page-82fda54699ff90fd62c40db8"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5e84205d10ca74f7f240eb171298fa7c484fc1e46c1066dc2ff01f63f96e27f6",
+    "sitemap.xml": "078a6c1009e36caf3a6b493384d23407ebab04a3a1422baddbfbc3018f0acbb3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a0b9b3425bc8709d4970b8c169cd6793a13da2067d563b6dd254fdcb41fb4b56",
+    "robots.txt": "4ac7a104a23bf5a7da31436b2d572003ada05b298133599c195a76609a6fe77a",
+    "2afc78915c8be7bdaa9ffde5a0ebfd3c.txt": "3a933a1bda21aa0b8c60527b183b626ee1d45d3f0a2d92fc363be18443295fbc"
+  },
+  "revision": "2729147bd9eea75f7678cf159ac7b0f095d39d7af6da91866146eb1ca9dc2ddf"
+}
